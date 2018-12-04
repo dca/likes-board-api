@@ -7,4 +7,4 @@ services:
   - mysql
 
 before_install:
-  - mysql -e 'CREATE DATABASE IF NOT EXISTS likes-board-api;'
+  - mysql -e 'CREATE DATABASE IF NOT EXISTS likes_board_api;'
