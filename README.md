@@ -1,1 +1,1 @@
-# typescript-koa2-startkit
+# likes-board-api

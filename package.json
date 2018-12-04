@@ -1,5 +1,5 @@
 {
-  "name": "koa2-typescript-starter-kit",
+  "name": "likes-board-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dca/koa2-typescript-starter-kit.git"
+    "url": "git+https://github.com/dca/likes-board-api.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dca/koa2-typescript-starter-kit/issues"
+    "url": "https://github.com/dca/likes-board-api/issues"
   },
-  "homepage": "https://github.com/dca/koa2-typescript-starter-kit#readme",
+  "homepage": "https://github.com/dca/likes-board-api#readme",
   "dependencies": {
     "@koa/cors": "^2.2.2",
     "@types/debug": "0.0.30",
