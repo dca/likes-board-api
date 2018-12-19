@@ -1,5 +1,6 @@
 
 module.exports = {
+  "setupTestFrameworkScriptFile": "jest-extended",
   "transform": {
     "^.+\\.tsx?$": "ts-jest"
   },

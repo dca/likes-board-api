@@ -4,6 +4,8 @@ import { initDatabase } from '@src/app/database'
 import { getConnection } from 'typeorm'
 import * as debug from 'debug'
 
+import 'jest-extended'
+
 const server = app.listen()
 const request = () => supertest(server)
 
